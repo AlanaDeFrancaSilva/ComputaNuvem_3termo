@@ -1,9 +1,39 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="27.0.3">
   <diagram name="Página-1" id="P9_ieig0CdfyJ8tZfkjR">
-    <mxGraphModel dx="2593" dy="1427" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1524" dy="1442" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="6J2_1xlhsaQaQIbz8ToR-1" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.ec2;fillColor=#F58534;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="130" y="130" width="76.5" height="93" as="geometry" />
+        </mxCell>
+        <mxCell id="6J2_1xlhsaQaQIbz8ToR-2" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/operating-system-flat-1/30/ubuntu-128.png" vertex="1" parent="1">
+          <mxGeometry x="300" y="112.5" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="6J2_1xlhsaQaQIbz8ToR-3" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.cloudwatch;fillColor=#759C3E;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="530" y="140" width="82.5" height="93" as="geometry" />
+        </mxCell>
+        <mxCell id="6J2_1xlhsaQaQIbz8ToR-4" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.sns;fillColor=#D9A741;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="730" y="148" width="76.5" height="76.5" as="geometry" />
+        </mxCell>
+        <mxCell id="6J2_1xlhsaQaQIbz8ToR-5" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;fillColor=#FF6A00;strokeColor=none;shape=mxgraph.alibaba_cloud.apigateway;" vertex="1" parent="1">
+          <mxGeometry x="930" y="148.8" width="78.42" height="75.7" as="geometry" />
+        </mxCell>
+        <mxCell id="6J2_1xlhsaQaQIbz8ToR-6" value="Amazon EC2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="127.25" y="233" width="82" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6J2_1xlhsaQaQIbz8ToR-7" value=" Ubuntu" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="323" y="240.5" width="82" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6J2_1xlhsaQaQIbz8ToR-8" value="Cloud Watch" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="530.5" y="240.5" width="82" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6J2_1xlhsaQaQIbz8ToR-9" value="SNS" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="727.25" y="233" width="82" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6J2_1xlhsaQaQIbz8ToR-10" value="API Gateway" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="928.21" y="233" width="82" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
